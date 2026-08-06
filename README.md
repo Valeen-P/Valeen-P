@@ -24,7 +24,7 @@ Me interesa seguir creciendo en equipos donde pueda combinar tecnología, análi
 | Proyecto | Tipo | Mi participación | Estado |
 | --- | --- | --- | --- |
 | [Sitio web para Inmobiliaria Martínez](https://github.com/Valeen-P/inmobiliaria-martinez-case-study) | Proyecto freelance para un cliente real | Relevamiento, estructura, desarrollo, validaciones y adaptación responsive | En uso |
-| [Sistema académico y de certificación — UTN](https://github.com/Valeen-P/sistema-validacion-utn-case-study) | Proyecto académico colaborativo | Análisis, diseño funcional, gestión de información, implementación y pruebas | Finalizado |
+| [Sistema académico y de certificación — UTN](https://github.com/Valeen-P/sistema-validacion-utn-case-study) | Proyecto académico colaborativo para la Secretaría de Extensión | Co-liderazgo, desarrollo integral y responsabilidad completa del flujo de certificados PDF + QR | Desarrollo finalizado |
 | [Plataforma de turnos para profesionales](https://github.com/Valeen-P/psicologos-app-case-study) | Proyecto colaborativo con Ian Acevedo | Desarrollo integral compartido: requerimientos, flujos, implementación, revisión funcional y resolución de errores | En desarrollo |
 | [Portfolio profesional](https://github.com/Valeen-P/portfolio-profesional) | Proyecto personal | Diseño y desarrollo de mi presentación profesional | En evolución |
 
