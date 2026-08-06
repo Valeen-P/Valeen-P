@@ -25,7 +25,7 @@ Me interesa seguir creciendo en equipos donde pueda combinar tecnología, análi
 | --- | --- | --- | --- |
 | [Sitio web para Inmobiliaria Martínez](https://github.com/Valeen-P/inmobiliaria-martinez-case-study) | Proyecto freelance para un cliente real | Relevamiento, estructura, desarrollo, validaciones y adaptación responsive | En uso |
 | [Sistema académico y de certificación — UTN](https://github.com/Valeen-P/sistema-validacion-utn-case-study) | Proyecto académico colaborativo | Análisis, diseño funcional, gestión de información, implementación y pruebas | Finalizado |
-| Plataforma de turnos para profesionales | Proyecto colaborativo con Ian Acevedo | Desarrollo integral compartido: requerimientos, flujos, implementación, revisión funcional y resolución de errores | En desarrollo |
+| [Plataforma de turnos para profesionales](https://github.com/Valeen-P/psicologos-app-case-study) | Proyecto colaborativo con Ian Acevedo | Desarrollo integral compartido: requerimientos, flujos, implementación, revisión funcional y resolución de errores | En desarrollo |
 | [Portfolio profesional](https://github.com/Valeen-P/portfolio-profesional) | Proyecto personal | Diseño y desarrollo de mi presentación profesional | En evolución |
 
 > Algunos proyectos mantienen su código fuente en privado por confidencialidad, propiedad compartida o porque pertenecen a clientes. Los casos de estudio públicos muestran objetivos, decisiones y resultados sin exponer información sensible.
