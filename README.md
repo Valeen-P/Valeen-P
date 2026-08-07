@@ -4,6 +4,7 @@
 
 ### Técnico Universitario en Programación · Desarrollo de software · Sistemas · Análisis funcional
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_sitio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-profesional-woad.vercel.app/es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentín_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-ivan-perez)
 
 </div>
@@ -26,7 +27,7 @@ Me interesa seguir creciendo en equipos donde pueda combinar tecnología, análi
 | [Sitio web para Inmobiliaria Martínez](https://github.com/Valeen-P/inmobiliaria-martinez-case-study) | Proyecto freelance para un cliente real | Relevamiento, estructura, desarrollo, validaciones y adaptación responsive | En uso |
 | [Sistema académico y de certificación — UTN](https://github.com/Valeen-P/sistema-validacion-utn-case-study) | Proyecto académico colaborativo para la Secretaría de Extensión | Co-liderazgo, desarrollo integral y responsabilidad completa del flujo de certificados PDF + QR | Desarrollo finalizado |
 | [Plataforma de turnos para profesionales](https://github.com/Valeen-P/psicologos-app-case-study) | Proyecto colaborativo con Ian Acevedo | Desarrollo integral compartido: requerimientos, flujos, implementación, revisión funcional y resolución de errores | En desarrollo |
-| [Portfolio profesional](https://github.com/Valeen-P/portfolio-profesional) | Proyecto personal | Diseño y desarrollo de mi presentación profesional | En evolución |
+| [Portfolio profesional](https://portfolio-profesional-woad.vercel.app/es) | Proyecto personal | Diseño y desarrollo de mi presentación profesional | Publicado |
 
 > Algunos proyectos mantienen su código fuente en privado por confidencialidad, propiedad compartida o porque pertenecen a clientes. Los casos de estudio públicos muestran objetivos, decisiones y resultados sin exponer información sensible.
 
@@ -59,7 +60,7 @@ Me interesa seguir creciendo en equipos donde pueda combinar tecnología, análi
 
 ## Contacto
 
-Podés conocer más sobre mi experiencia o contactarme desde [LinkedIn](https://www.linkedin.com/in/valentin-ivan-perez).
+Podés conocer más sobre mi experiencia en mi [portfolio profesional](https://portfolio-profesional-woad.vercel.app/es) o contactarme desde [LinkedIn](https://www.linkedin.com/in/valentin-ivan-perez).
 
 ---
 
